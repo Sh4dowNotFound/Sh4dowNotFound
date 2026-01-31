@@ -2,7 +2,7 @@
 
 # Hi, I'm Sh4downNotFound 👋
 
-### 🦀 Rustacean | 🤖 AI Slop Engineer
+### 🦀 Rustacean | 🤖 AI Slop Engineer | 🦆 Professional Debugger
 
 <br/>
 
@@ -27,19 +27,21 @@
 
 ### 📊 GitHub Stats
 
-<!-- Używamy prostszej metody wyświetlania, która rzadziej się psuje -->
+<!-- Zmieniłem parametry, żeby wymusić odświeżenie -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh4downNotFound&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sh4downNotFound's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sh4downNotFound&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4downNotFound&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4downNotFound&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&cache_seconds=1800" alt="Top Langs" />
 </p>
 
 <br/>
 
 ### 🐍 Contribution Snake
-<!-- To generuje węża zjadającego Twoje commity - wygląda super na ciemnym tle -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh4downNotFound&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+<!-- ZMIANA: Używamy serwera demolab.com zamiast herokuapp - jest dużo stabilniejszy -->
+<img src="https://github-readme-streak-stats.demolab.com/?user=Sh4downNotFound&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 <br/>
 
