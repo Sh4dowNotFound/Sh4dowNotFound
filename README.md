@@ -1,9 +1,8 @@
-# Sh4downNotFound
 <div align="center">
 
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdiaG5sM2Z5Z3R4Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5/L8K62iTDkzGX6/giphy.gif" width="30px"> Hi, I'm Sh4downNotFound
 
-### 🦀 Rustacean | 🤖 AI Slop Engineer | 🦆 Professional Debugger
+### 🦀 Rustacean | 🤖 AI Slop Engineer 
 
 <br/>
 
