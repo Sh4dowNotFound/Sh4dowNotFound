@@ -2,7 +2,7 @@
 
 # Hi, I'm Sh4downNotFound 👋
 
-### 🦀 Rustacean | 🤖 AI Slop Engineer | 🦆 Professional Debugger
+### 🦀 Rustacean | 🤖 AI Slop Developer
 
 <br/>
 
